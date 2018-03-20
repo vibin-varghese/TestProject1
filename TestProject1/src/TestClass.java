@@ -6,6 +6,7 @@ public class TestClass {
 		
 		String[] family = { "Vibin", "Reny" };
 
+		String[] family = { "Joshua", "Jayden" };
 	}
 
 }
